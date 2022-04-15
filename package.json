@@ -1,0 +1,23 @@
+{
+  "name": "npm-pkgconfig",
+  "version": "0.1.0",
+  "description": "Native pkg-config parsing library.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TESTS NOT ADDED\""
+  },
+  "keywords": [
+    "pkg-config",
+    "command-line",
+    "cli",
+    "c",
+    "cpp",
+    "meson"
+  ],
+  "author": "Goutham Krishna K V <gauthamkrishna9991@live.com>",
+  "repository": {
+    "url": "https://github.com/gauthamkrishna9991/npm-pkgconfig"
+  },
+  "license": "MIT"
+}
